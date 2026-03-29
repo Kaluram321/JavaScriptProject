@@ -1,0 +1,11 @@
+.calculator{
+    text-align: center;
+
+}
+#op{
+    color: rgb(238, 243, 243);
+    background-color: black;
+}
+#result{
+    color: blue;
+}
